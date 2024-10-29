@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋, I am Stefan
+
+## Connect with me:
+<a href="https://linkedin.com/in/jestanoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/jestanoff/jetanoff/main/assets/linked-in-alt.svg" alt="jestanoff" height="30" width="40" /></a>
 
 <!--
 **jestanoff/jestanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
