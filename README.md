@@ -1,4 +1,4 @@
-# Hi there 👋 I`m Stefan
+# Hi chaps 👋 I`m Stefan
 
 ### Connect with me
 <a href="https://linkedin.com/in/jestanoff" target="blank"><img align="center" src="https://github.com/jestanoff/jestanoff/blob/8e4f723ed2d4124168fa15963dcc58c6ccc56b8a/assets/linked-in-alt.svg" alt="jestanoff" height="30" width="40" /></a>
