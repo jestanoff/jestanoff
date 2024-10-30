@@ -5,11 +5,11 @@
 
 ### Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jestanoff&show_icons=true&locale=en&layout=compact&theme=nightowl&langs_count=10" alt="jestanoff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jestanoff&show_icons=true&locale=en&layout=compact&theme=merko&langs_count=8&hide=HTML" alt="jestanoff" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jestanoff&show_icons=true&locale=en&theme=nightowl" alt="jestanoff" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jestanoff&show_icons=true&locale=en&theme=merko" alt="jestanoff" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jestanoff&theme=nightowl" alt="jestanoff" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jestanoff&theme=merko" alt="jestanoff" /></p> 
 
 <!--
 **jestanoff/jestanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
